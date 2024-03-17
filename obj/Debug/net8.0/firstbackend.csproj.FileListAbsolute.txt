@@ -12,3 +12,4 @@ C:\Users\yusra\OneDrive\Desktop\firstbackend\obj\Debug\net8.0\refint\firstbacken
 C:\Users\yusra\OneDrive\Desktop\firstbackend\obj\Debug\net8.0\firstbackend.pdb
 C:\Users\yusra\OneDrive\Desktop\firstbackend\obj\Debug\net8.0\firstbackend.genruntimeconfig.cache
 C:\Users\yusra\OneDrive\Desktop\firstbackend\obj\Debug\net8.0\ref\firstbackend.dll
+C:\Users\yusra\OneDrive\Desktop\firstbackend\obj\Debug\net8.0\firstbackend.sourcelink.json

@@ -6,7 +6,6 @@ namespace MyProject
     {
         static void Main(string[] args)
         {
-            // Variables and basic data types
             int age;
             double height;
             double weight;
@@ -14,11 +13,11 @@ namespace MyProject
             char gender;
             bool isStudent;
 
-            // Output
+        
             Console.WriteLine("Welcome to the Health Tracker App!");
             Console.WriteLine("Please provide the following details:");
 
-            // Input
+
             Console.Write("Enter your name: ");
             string? inputName = Console.ReadLine();
             name = inputName ?? string.Empty;
@@ -43,7 +42,6 @@ namespace MyProject
             isStudent = inputIsStudent?.Equals("Y", StringComparison.OrdinalIgnoreCase) ?? false;
             Console.WriteLine("Are you a student? " + (isStudent ? "Yes" : "No"));
 
-            // Formatting output
             Console.WriteLine("Hello, {0}!", name);
             Console.WriteLine("Your age: {0}", age);
             Console.WriteLine("Your height: {0} meters", height);
@@ -51,15 +49,12 @@ namespace MyProject
             Console.WriteLine("Your gender: {0}", gender);
             Console.WriteLine("Are you a student? {0}", isStudent ? "Yes" : "No");
 
-            // Data type conversion
             double heightInFeet = heightInCentimeters / 30.48;
             Console.WriteLine("Your height in feet: " + heightInFeet);
 
-            // Operators
             double bmi = weight / (height * height);
             Console.WriteLine("Your BMI: {0}", bmi);
 
-            // Control statements
             if (bmi < 18.5)
             {
                 Console.WriteLine("You are underweight.");
@@ -77,7 +72,7 @@ namespace MyProject
                 Console.WriteLine("You are obese.");
             }
 
-            //method
+        
             MathLibrary.MathHelper mathHelper = new MathLibrary.MathHelper();
             int squareResult = mathHelper.Square(5);
             int squareRootResult = (int)mathHelper.SquareRoot(squareResult);
