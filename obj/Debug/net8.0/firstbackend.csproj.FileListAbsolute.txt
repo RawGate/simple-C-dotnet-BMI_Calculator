@@ -1,0 +1,14 @@
+C:\Users\yusra\OneDrive\Desktop\firstbackend\obj\Debug\net8.0\firstbackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusra\OneDrive\Desktop\firstbackend\obj\Debug\net8.0\firstbackend.AssemblyInfoInputs.cache
+C:\Users\yusra\OneDrive\Desktop\firstbackend\obj\Debug\net8.0\firstbackend.AssemblyInfo.cs
+C:\Users\yusra\OneDrive\Desktop\firstbackend\obj\Debug\net8.0\firstbackend.csproj.CoreCompileInputs.cache
+C:\Users\yusra\OneDrive\Desktop\firstbackend\bin\Debug\net8.0\firstbackend.exe
+C:\Users\yusra\OneDrive\Desktop\firstbackend\bin\Debug\net8.0\firstbackend.deps.json
+C:\Users\yusra\OneDrive\Desktop\firstbackend\bin\Debug\net8.0\firstbackend.runtimeconfig.json
+C:\Users\yusra\OneDrive\Desktop\firstbackend\bin\Debug\net8.0\firstbackend.dll
+C:\Users\yusra\OneDrive\Desktop\firstbackend\bin\Debug\net8.0\firstbackend.pdb
+C:\Users\yusra\OneDrive\Desktop\firstbackend\obj\Debug\net8.0\firstbackend.dll
+C:\Users\yusra\OneDrive\Desktop\firstbackend\obj\Debug\net8.0\refint\firstbackend.dll
+C:\Users\yusra\OneDrive\Desktop\firstbackend\obj\Debug\net8.0\firstbackend.pdb
+C:\Users\yusra\OneDrive\Desktop\firstbackend\obj\Debug\net8.0\firstbackend.genruntimeconfig.cache
+C:\Users\yusra\OneDrive\Desktop\firstbackend\obj\Debug\net8.0\ref\firstbackend.dll
