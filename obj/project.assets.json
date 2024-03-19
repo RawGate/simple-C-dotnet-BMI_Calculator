@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yusra\\OneDrive\\Desktop\\firstbackend\\firstbackend.csproj",
+      "projectUniqueName": "C:\\Users\\yusra\\OneDrive\\Desktop\\Mydo\\firstbackend\\firstbackend.csproj",
       "projectName": "firstbackend",
-      "projectPath": "C:\\Users\\yusra\\OneDrive\\Desktop\\firstbackend\\firstbackend.csproj",
+      "projectPath": "C:\\Users\\yusra\\OneDrive\\Desktop\\Mydo\\firstbackend\\firstbackend.csproj",
       "packagesPath": "C:\\Users\\yusra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yusra\\OneDrive\\Desktop\\firstbackend\\obj\\",
+      "outputPath": "C:\\Users\\yusra\\OneDrive\\Desktop\\Mydo\\firstbackend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yusra\\AppData\\Roaming\\NuGet\\NuGet.Config"

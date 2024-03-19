@@ -14,7 +14,7 @@ namespace MyProject
             bool isStudent;
 
         
-            Console.WriteLine("Welcome to the Health Tracker App!");
+            Console.WriteLine("Welcome to the Health Tracker simple app!");
             Console.WriteLine("Please provide the following details:");
 
 
